@@ -1,0 +1,1 @@
+export let contacts = ['aman','ram','raj','naman','rajdeeb','argho','rishi','Gourav','Arbindo']
